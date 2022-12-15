@@ -1,0 +1,19 @@
+#instead of running pip isntall and individual packages you can install all of them at the same time using this .txt file
+##!pip install -r requirements.txt
+
+numpy
+pandas
+scikit-learn==1.1
+sklearn
+gensim
+ipykernel
+
+# These are the true required top-level packages
+black
+ipywidgets
+nbformat
+nltk
+plotly
+pyLDAvis
+tensorflow
+transformers
